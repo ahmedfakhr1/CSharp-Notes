@@ -14,4 +14,14 @@
 - **Workspace-ready** code snippets (copy/paste friendly)
 - **Concept maps** for tough topics like delegates/async
 
-## 📂 Live Note-Taking Structure
+## 🛠️ How to Use With the Playlists
+1. **Watch a video** from El-Mahdy's series
+2. **Open corresponding note** (marked with video #)
+
+   
+
+
+
+
+## 📜 License
+CC BY-SA 4.0 - Please credit Eng. Mohamed El-Mahdy's original content
